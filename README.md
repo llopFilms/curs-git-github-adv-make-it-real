@@ -7,4 +7,4 @@
   - Branques
   - Stashing
   - Reescrivint l'historial
-  - Fluxes de treball
+  - Fluxos de treball
