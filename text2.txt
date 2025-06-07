@@ -1,0 +1,2 @@
+Text 2
+Línia nova a text 2
