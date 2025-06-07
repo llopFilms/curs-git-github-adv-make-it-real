@@ -2,4 +2,5 @@ Text creat des del fork
 Canvi a text4.txt
 Nou canvi a text4.txt
 Un altre nou canvi a text4.txt
+Encara un altre canvi a text4.txt
 
