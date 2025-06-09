@@ -6,4 +6,7 @@ Encara un altre canvi a text4.txt
 I encara un nou canvi a text4.txt
 Nou canvi a una branca nova
 I un altre
-Més proves de canvis
+Proves ammend
+Més proves ammend
+I més proves ammend encara
+I acabant git ammend
