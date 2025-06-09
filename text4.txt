@@ -6,5 +6,4 @@ Encara un altre canvi a text4.txt
 I encara un nou canvi a text4.txt
 Nou canvi a una branca nova
 I un altre
-www2
-www3
+Més proves de canvis
