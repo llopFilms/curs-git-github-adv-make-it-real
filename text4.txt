@@ -11,3 +11,4 @@ Més proves ammend
 I més proves ammend encara
 I acabant git ammend
 Canvi fet a github per veure el flux e treball
+I un canvi nou
